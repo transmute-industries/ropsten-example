@@ -5,3 +5,5 @@
 
 node_modules
 build
+.env
+sigmate-v3-austin-ethereum.json
