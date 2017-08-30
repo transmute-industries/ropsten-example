@@ -47,7 +47,7 @@ Quit testrpc and make sure that it is not running in the background before proce
 ```
 ropsten-example $ sigmate keystore
 ```
-After creating your wallet, make sure to fund it using the Austin Faucet, ask in gitter, or just ask someone in Austin Ethereum you some testnet Ether.
+After creating your wallet, make sure to fund it using the Austin Faucet, ask in gitter, or just ask someone in Austin Ethereum Slack to give you some testnet Ether.
 
 You're going to update your truffle.js file to point to Ropsten:
 
