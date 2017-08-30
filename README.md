@@ -4,7 +4,7 @@
 
 When developing Ethereum-based applications, you will eventually need to deploy your smart contracts to the mainnet. Running a local node with testrpc doesn't nearly capture the user  experience of transacting on a public chain - most notably the fact that nodes on different blockchains may have different protocols as well as that transactions on the testnet exhibit delays typical of blockchain technology. 
 
-In order to deploy these, you're going to need testnet ether for your testnet of choice. In our case, we are using Ropsten because we built a POA [Faucet](faucet.transmute.industries) for Ropsten before Rinkeby and Kovan existed. 
+In order to deploy these, you're going to need testnet ether for your testnet of choice. In our case, we are using Ropsten because we built a POA [Faucet](https://faucet.transmute.industries) for Ropsten before Rinkeby and Kovan existed. 
 
 Note: We will soon be moving over to one of the newer testnets.
 
